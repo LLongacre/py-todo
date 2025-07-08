@@ -1,1 +1,1 @@
-python project for todo list 
+Python project for todo list 
